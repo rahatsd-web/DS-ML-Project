@@ -1,2 +1,1 @@
-# DS-ML-Project
-DS &amp; ML Project  Description
+This project aims to predict car prices using Data Science and Machine Learning techniques. The workflow includes data preprocessing, exploratory data analysis (EDA), and feature engineering to extract meaningful insights from the dataset. The model is developed using Python with libraries such as Pandas, NumPy, Matplotlib, and Scikit-learn. Various regression algorithms are applied and evaluated to build an accurate model that estimates car prices based on features like brand, model, year, fuel type, and mileage. This project demonstrates practical implementation of machine learning for real-world price prediction.
